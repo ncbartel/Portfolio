@@ -19,6 +19,8 @@ In this class, at the beginning of the semester, these were the areas that I was
 - Developing ways to take raw data and create compelling narratives 
 - Improving design skills to help create effective designs 
 
+Like this class will teach us to draw out of data, even in one semester, my classes at Heinz begin to tell a story. Through Stats with R, I learned how to design data gathering mechanisms and analyze the results. During my Strategic Presentations course, I improved my ability to take that raw data and present it verbally to others. Telling Stories with Data builds on those classes to take that analysis and design it in a way that, without me even being there to explain, is able to easily understand the message created by the project and is persuaded to act in the way it was intended. With shorter attention spans and larger datasets, this combination of skills will be vital in helping to convince stakeholders to buy-in to the projects or policies I intend to work on post-graduation.
+
 # Portfolio
 ## Critique by Design
 ## Visualizing Government Debt
