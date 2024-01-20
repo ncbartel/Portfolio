@@ -1,98 +1,20 @@
 | [home page](https://ncbartel.github.io/ncbartel_portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+Welcome to my page! This page was designed as part of the Telling Stories with Data course at Carnegie Mellon University in the Heinz College of Information Systems and Public Policy. If you found me from somewhere else (or if Google indexes this site and you clicked from there), welcome! I invite you to take a look around and see what I have done for this course. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+So biggest question is who am I? Well hello! My name is Nickolas Bartel (he/him/his) and a first year Master of Public Policy and Management student with an Environmental Policy concentration. I graduated Washington & Jefferson College with a Bachelor of Arts majoring in Political Science, Environmental Studies, and Spanish with a minor in Latin American Studies. My main research interest is in engaging resistant communities with climate policy and other environmental issues. 
+
+While attending Carnegie Mellon University, you might also find me working at the Carnegie Science Center as a Program Presenter presenting live shows since May 2016 on electricity, liquid nitrogen, the brain, and much more! One of my favorite floor demonstrations I designed working there was using the Stroop test to show how word recognition during the test in different languages impacts completion time. 
+
+After graduating in May 2025, I plan to explore my interests working in either a non-profit or local/state goverment to find ways to address climate policy to help the next generation to live in a cleaner and safer world. If you are interested in this, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nickolas-bartel/)
+
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
+In this class, in the beginning of the semester, these were the areas that I was really curious in exploring:
+- 
 - List item #2
 - List item #3
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
-
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
-
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
-
-### Changing text
-
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
-
-### Creating tables
-
-You can build tables like this: 
-
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
-
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
-
-### Setting up a separate page
-
-So here's the code you'll need to add to your own site to create a second page. 
-
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
-
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
