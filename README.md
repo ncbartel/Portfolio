@@ -13,6 +13,11 @@ After graduating in May 2025, I plan to explore my interests working in either a
 
 # What I hope to learn
 In this class, in the beginning of the semester, these were the areas that I was really curious in exploring:
-- Finding ways to make complicated data into easy to understand methods
-- Improving ways to take raw data and create compelling narratives 
-- 
+- Finding ways to make complicated data into easy to understand platforms
+- Developing ways to take raw data and create compelling narratives 
+- Improving design skills to help create effective designs 
+
+# Portfolio
+## Critique by Design
+## Visualizing Government Debt
+## Final Project
