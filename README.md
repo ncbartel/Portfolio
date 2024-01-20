@@ -1,4 +1,4 @@
-| [home page](https://ncbartel.github.io/ncbartel_portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://ncbartel.github.io/Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Welcome!
 Welcome to my page! This page was designed as part of the Telling Stories with Data course at Carnegie Mellon University in the Heinz College of Information Systems and Public Policy. If you found me from somewhere else (or if Google indexes this site and you clicked from there), welcome! I invite you to take a look around and see what I have done for this course. 
