@@ -1,5 +1,8 @@
 | [Home](https://ncbartel.github.io/Portfolio/) | [Visualizing Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 # Visualizing Government Debt
+<iframe src="https://data.oecd.org/chart/7kl9" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kl9" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
+Source: [OECD, 2023](https://data.oecd.org/gga/general-government-debt.htm)
+
 
 <div class='tableauPlaceholder' id='viz1706465583004' style='position: relative'>
 <noscript><a href='#'><img alt='OECD Government Debt Table ' src='https:&#47;&#47;public.tableau.com&#47;
@@ -23,7 +26,7 @@ OE&#47;OECDGovernmentDebt&#47;Sheet1&#47;1_rss.png' style='border: none' /></a><
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-Source: [OECD, 2023](https://data.oecd.org/price/housing-prices.htm)
+Source: [OECD, 2023](https://data.oecd.org/gga/general-government-debt.htm)
 
 <div class='tableauPlaceholder' id='viz1706468492299' style='position: relative'><noscript><a href='#'>
 <img alt='OECD Debt by Country Over Time ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDGovernmentDebt&#47;Sheet2&#47;1_rss.png' style='border: none' />
@@ -48,4 +51,4 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-Source: [OECD, 2023](https://data.oecd.org/price/housing-prices.htm)
+Source: [OECD, 2023](https://data.oecd.org/gga/general-government-debt.htm)
