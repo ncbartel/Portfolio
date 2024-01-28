@@ -54,8 +54,12 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-When I was considering my options for the visualization, I wanted to display how it varies by country and using a map to do it with a heat map seemed like the most appropriate way to quickly view it. I added a time filter onto it to allow viewers to see how the percentage of debt to GDP changes over time. I chose a blue to red scale with blue being lower percentage reflecting a better debt to GDP ratio and red being a higher percentage reflecting a worse debt to GDP ratio. I chose red as it was an alert color for danger as having a high debt to GDP ratio would suggest. 
-
-I found that the data reflected economic changes such as the economic crash in Japan that they were recovering from the 1990s until the early 2000s that impacted their debt to GDP ratio. Another interesting aspect visible by this is the impact of joining the EU for Greece and eventual collapse 
-
 Source: [OECD, 2023](https://data.oecd.org/gga/general-government-debt.htm)
+
+When I was considering my options for the visualization, I wanted to display how it varies by country and using a map to do it with a heat map seemed like the most appropriate way to quickly view it. I added a time filter onto it to allow viewers to see how the percentage of debt to GDP changes over time. I chose a blue to red scale with blue being lower percentage reflecting a better debt to GDP ratio and red being a higher percentage reflecting a worse debt to GDP ratio. I chose red as it was an alert color for danger as having a high debt to GDP ratio would suggest. I opted to change the background map color to black to make the colors pop more and make null values not be attracting attention of the viewer. Additionally, I wanted to add an animated timeline to the map to show the year-to-year differences without needing to click through each year. I also opted to change the Debt to GDP to a dimension value instead of a sum or a minimum value since it was not accurately representing the value for that year. 
+
+I found that the data reflected economic changes such as the economic crash in Japan that they were recovering from the 1990s until the early 2000s that impacted their debt to GDP ratio. Another interesting aspect visible by this is the impact of joining the EU for Greece and eventual collapse of their markets. 
+
+---
+
+Summary:
