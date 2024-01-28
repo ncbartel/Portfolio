@@ -62,4 +62,4 @@ I found that the data reflected economic changes such as the economic crash in J
 
 ---
 
-Summary:
+# Summary of Different Visualizations:
