@@ -1,6 +1,5 @@
-| [home page](https://ncbartel.github.io/Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-# Title
-Test
+| [Home](https://ncbartel.github.io/Portfolio/) | [Visualizing Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+# Visualizing Government Debt
 
 <div class='tableauPlaceholder' id='viz1706465583004' style='position: relative'>
 <noscript><a href='#'><img alt='OECD Government Debt Table ' src='https:&#47;&#47;public.tableau.com&#47;
@@ -23,3 +22,4 @@ OE&#47;OECDGovernmentDebt&#47;Sheet1&#47;1_rss.png' style='border: none' /></a><
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+Source: [OECD, 2023](https://data.oecd.org/price/housing-prices.htm)
