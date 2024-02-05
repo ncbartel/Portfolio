@@ -2,4 +2,7 @@
 
 # Critique by Design with Tableau
 
-A common method of displaying voter engagement is through a map of the United States where each state is either red or blue. However, this can lead to a lot of misinformation as states in the center
+## Overview of Original Visualization 
+The [If only ____ Voted](https://data.world/makeovermonday/2021w27) visualization outlined how depending on the demographic group the 2020 US Presidential Election using data would have resulted between Donald Trump and Joe Biden. The visualization made by Dustin Gibson on Reddit originating from the AP News Exit polling has individual electoral maps per demographic group.
+
+## Critique of Original Visualization
