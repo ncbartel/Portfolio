@@ -20,6 +20,21 @@ I believe that this visualization earned a 4 as while it was perceptable, it was
 
 **Completeness** 
 
+*7/10*
+
+I rated this a 7 out of 10 because while the visualization does have all of the demographics within the dataset from AP News, it is missing the popular vote percentages which leads to an incomplete visualization of the data. It is important to include the popular vote as electoral votes are not representative of the total population as some states such as New Hampshire or Montana have a lower population to electoral college representative ratio compared to states such as California. However, it does include electoral victories and the summation of each candidate at the top, so this was a positive aspect increasing its score. So while most of the data is there, this visualization receives a 7.  
+
+**Perceptibility** 
+
+*4/10*
+
+I rated this a 4 out of 10 as the image at first glance is very long and that leads it to be presented as very narrow and impossible to read without having to zoom into the iamge which prevents viewing the entirety of the visualization. It also uses a map-based approach which does not adequately reflect the concentrations of voters making it seem like one party is in more control color wise than it actually does population or even electoral college wise. It did recieve some points as it included the horizontal stacked bar chart visualization showing the totals for both Trump and Biden. However, overall, this visualization was challenging to read. 
+
+**Truthfulness**
+
+*10/10*
+
+This visualization gets a 10 out of 10 as the data originates from AP News, a broadly accepted non-partisan news source. The data itself represents the data accurately in a commonly understood manner. The only minor critique on this was that the land area of the United States can be mistaken on the scale as representative of the population.
+
 ### Negative Aspects of Original Visualization
 One of the largest critiques of the initial visualization stems around very long image which is not effective to display the message. Another issue of 
-
