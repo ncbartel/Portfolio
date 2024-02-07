@@ -3,7 +3,7 @@
 # Critique by Design with Tableau
 
 ## Overview of Original Visualization 
-The <a href = "https://data.world/makeovermonday/2021w27" target="_blank">If Only ____ Voted</a> visualization outlined how depending on the demographic group the 2020 US Presidential Election using data would have resulted between Donald Trump and Joe Biden. The visualization made by Dustin Gibson on Reddit originating from the AP News Exit polling has individual electoral maps per demographic group. 
+The <a href = "https://data.world/makeovermonday/2021w27" target="_blank">If Only ____ Voted</a> visualization outlined how depending on the demographic group the 2020 US Presidential Election using data would have resulted between Donald Trump and Joe Biden. The visualization made by Dustin Gibson on Reddit originating from the AP News Exit polling has individual electoral maps per demographic group. Given the nature of how dimensionally long it is, please feel free to click on the <a href = "https://data.world/makeovermonday/2021w27" target="_blank">link</a> instead to view it (this is a reoccuring critique that I will bring up later in the analysis).
 
 ## Data Visualization Effectiveness Profile of Original Visualization
 
