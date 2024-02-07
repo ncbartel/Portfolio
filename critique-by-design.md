@@ -60,5 +60,7 @@ As mentioned previously, my initial observation was that there was simply too mu
 
 I believe that the intended audience is anyone who is interested in American politics and is a Reddit user who is interested in data visualizations as it is posted on a thread for that topic on that platform.
 
+## Wireframe
 
+![Wireframe](wireframe.png)
 
