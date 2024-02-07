@@ -84,6 +84,8 @@ In evaluating this wireframe, I asked 3 people adult, late 70s; adult, late teen
 
 ## Final Product
 
+Due to the lack of major changes required, I did not make many significant changes from the wireframe. Based upon the comments provided by the interviewees, I decided to drop the legend in the middle as it was not adding anything that was not already visible on the graphs themselves. I also added independents as a third party since the original was only two-party. 
+
 <div class='tableauPlaceholder' id='viz1707270257989' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;DataCritique&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> 
 <param name='site_root' value='' />
 <param name='name' value='DataCritique&#47;Dashboard1' />
