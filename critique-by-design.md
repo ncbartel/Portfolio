@@ -72,15 +72,26 @@ In evaluating this wireframe, I asked 3 people: adult, late 70s; adult, late tee
 
 **Adult, Late Teens**
 
-
+- Liked that it was simple and easy to read
+- Found it to be easy on the eyes
+- Saw the bars first and then the colors
+- First impression was that it was statistics based on different demographics
+- Suggested to change the font to be bigger 
+- Felt that it was necessary to remove the legend to allow for more room 
 
 **Adult, Early 50s**
 
-
+- Liked that you can view to see what you care about in regards to your own personal demographic groups that you are a part of 
+- Relates to the demographics they fit in with age range and income 
+- Suggested to add instructions to use the visualization
+- Recommended a larger font size on the X and Y axis 
+- Posed it might be more beneficial to have an easier way to toggle between the demographic groups
 
 **Adult, Late 70s**
 
-
+- Was initially confused about the 2020 versus 2024 election 
+- Wanted the data to go more into youth voting and have cross-group demographics (ex. see the age breakdown among women for each candidate)
+- Did not recommend any further changes to the design itself  
 
 ## Final Product
 
