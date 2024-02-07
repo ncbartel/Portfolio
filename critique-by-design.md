@@ -68,7 +68,7 @@ In my wireframe redesign, I decided to remove the map entirely to remove possibl
 
 ## Testing the Solution
 
-In evaluating this wireframe, I asked 3 people adult, late 70s; adult, late teens; and adult, mid 50s for feedback on my design.
+In evaluating this wireframe, I asked 3 people: adult, late 70s; adult, late teens; and adult, mid 50s for feedback on my design.
 
 **Adult, Late Teens**
 
