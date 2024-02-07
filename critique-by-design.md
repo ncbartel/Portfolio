@@ -10,6 +10,7 @@ The <a href = "https://data.world/makeovermonday/2021w27" target="_blank">If Onl
 Based on the <a href ="http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf" target ="_blank">Data Visualization Profile</a> by Stephen Few, this visualization was evaluated on usefullness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement. 
 
 **Usefulness**
+
 *4/10*
 
 I believe that this visualization earned a 4 as while it was perceptable, it was very long image that was hard to view on the website. This would make it harder for the intended audience to pull the information they wanted out of the visualization. Additionally, through using a U.S. map, it was hard to evaluate the popular vote that each candidate won by in each state. 
