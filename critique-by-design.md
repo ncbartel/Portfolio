@@ -62,5 +62,7 @@ I believe that the intended audience is anyone who is interested in American pol
 
 ## Wireframe
 
+In my wireframe redesign, I decided to remove the map entirely to remove possible geographic land bias. I then wanted to turn the horizontal stacked bar chart into a vertical bar chart to allow for there to be easier distinguishing features for the viewer to quickly look at the design and know the results. Another component that I wanted to add was a dropdown menu instead of a unique map for every single demographic group as it would save on space and time for the viewer to process the information. I decided to stick with the red and blue colors for the Republicans and Democrats, respectively, given the party colors. However, since there were third parties also involved, I chose to add in independent voters by subtracting between Joe Biden and Donald Trump's percent votes. This helps to counteract another critique of the original design promoting only a binary party country by not acknowledging that there are other minor parties instead. The last major component that I changed was that I also added popular vote results versus electoral college results to show how just because a candidate might have won the state via the winner take all method like 48 states employ, it is not representative of the United States as being just red or blue but a shade of purple.      
+
 ![Wireframe](wireframe.png)
 
