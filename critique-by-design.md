@@ -36,5 +36,10 @@ I rated this a 4 out of 10 as the image at first glance is very long and that le
 
 This visualization gets a 10 out of 10 as the data originates from AP News, a broadly accepted non-partisan news source. The data itself represents the data accurately in a commonly understood manner. The only minor critique on this was that the land area of the United States can be mistaken on the scale as representative of the population.
 
+**Intuitiveness** 
+
+*7/10*
+
+This visualization gets a 7 out of 10 as the data does convey the message moderately well. However, 
 ### Negative Aspects of Original Visualization
 One of the largest critiques of the initial visualization stems around very long image which is not effective to display the message. Another issue of 
