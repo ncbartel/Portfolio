@@ -46,8 +46,21 @@ This visualization gets a 7 out of 10 as the data does convey the message modera
 
 *4/10*
 
-I rated this a 4 out of 10 as while the images make sense, there are no elements of interest 
+I rated this a 4 out of 10 as while the images make sense, there are no elements of interest intially that pop out at me. It is hard to read, takes an unnecessary amount of time to analyze, and is generally not visually appealing.
+
+**Engagement**
+
+*1/10*
+
+On the initial post itself, it does not give any sort of information regarding where they got the information or how the audience can get more involved with voting or the like. With it being on Reddit, it does offer a platform for people to comment on it. Yet, without any access to the raw data, it is increasingly challenging for the audience to engage further with the data. 
+
+**Initial Observations**
+
+As mentioned previously, my initial observation was that there was simply too much activity going on with every single map being visible in one location. I did find the concept of showing how different groups would have voted if they were the only groups voting interesting. However, the land-based electoral maps play into the conflation between land size and population density. This is something that has played into the "stolen election" ideas from 2020 of "look at all of these red states" instead of looking at the populations of said states or number of electoral college votes that a state has. I would recommend instead to remove the map instead and look at the popular vote versus the electoral vote to promote the idea of land does not vote. 
+
+**Intended Audience** 
+
+I believe that the intended audience is anyone who is interested in American politics and is a Reddit user who is interested in data visualizations as it is posted on a thread for that topic on that platform.
 
 
-### Negative Aspects of Original Visualization
-One of the largest critiques of the initial visualization stems around very long image which is not effective to display the message. Another issue of 
+
