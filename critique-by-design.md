@@ -68,7 +68,7 @@ In my wireframe redesign, I decided to remove the map entirely to remove possibl
 
 ## Testing the Solution
 
-In evaluating this wireframe, I asked 3 people: adult, late 70s; adult, late teens; and adult, mid 50s for feedback on my design.
+In evaluating this wireframe, I asked 3 people: adult, late 70s; adult, late teens; and adult, mid 50s for feedback on my design. I used the model suggested in the assignment asking them things they liked, disliked, and first impressions. 
 
 **Adult, Late Teens**
 
@@ -89,7 +89,7 @@ In evaluating this wireframe, I asked 3 people: adult, late 70s; adult, late tee
 
 **Adult, Late 70s**
 
-- Was initially confused about the 2020 versus 2024 election 
+- Was initially confused about the 2020 versus 2024 election in the title given the same two likely candidates are running against each other
 - Wanted the data to go more into youth voting and have cross-group demographics (ex. see the age breakdown among women for each candidate)
 - Did not recommend any further changes to the design itself  
 
