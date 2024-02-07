@@ -40,6 +40,14 @@ This visualization gets a 10 out of 10 as the data originates from AP News, a br
 
 *7/10*
 
-This visualization gets a 7 out of 10 as the data does convey the message moderately well. However, 
+This visualization gets a 7 out of 10 as the data does convey the message moderately well. However, I knocked 3 points off as it is challenging to view the different demographics easily without zooming in on the image itself which then requires scrolling. The map gives a clear, intuitive representation that the data is explaining voting information about the United States which is the main objective of using this display format. 
+
+**Aesthetics**
+
+*4/10*
+
+I rated this a 4 out of 10 as while the images make sense, there are no elements of interest 
+
+
 ### Negative Aspects of Original Visualization
 One of the largest critiques of the initial visualization stems around very long image which is not effective to display the message. Another issue of 
