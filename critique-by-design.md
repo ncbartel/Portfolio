@@ -7,8 +7,6 @@ The <a href = "https://data.world/makeovermonday/2021w27" target="_blank">If Onl
 
 ## Data Visualization Effectiveness Profile of Original Visualization
 
-### Positive Aspects of the Original Visualization
-
 Based on the <a href ="http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf" target ="_blank">Data Visualization Profile</a> by Stephen Few, this visualization was evaluated on usefullness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement. 
 
 **Usefulness**
