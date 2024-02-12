@@ -17,11 +17,22 @@ There are three main stories I want to tell with my data:
 ## Initial sketches
 
 ### Setup
-- Pictograph showing how 1 in 3 people from 18-29 think it is okay to engage in violent protest against the US government and 1 in 4 people from 30-49 as well [The Covid States Project](https://www.covidstates.org/reports/americans-views-on-violence-against-the-government)
+
+- Map of economic impacts of climate change now 
+    - Zoom into a few individual cases
+- 
+
+
+
+### Conflict
+- Pictograph showing how 1 in 3 people from 18-29 think it is okay to engage in violent protest against the US government and 1 in 4 people from 30-49 as well [The COVID States Project](https://www.covidstates.org/reports/americans-views-on-violence-against-the-government)
 - Line chart showing the distrust in politicans and why scientists need to step up [The COVID States Project](https://www.covidstates.org/trust-in-institutions)
-- Bar chart showing American's trust in each other to do the right thing [Pew Research Center](https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-40/)
-- Bar chart with the SASSY Score on the Y-Axis as it subdivides each the difference of resource type with the percent difference on the X-axis 
-- individual profiles of people who have similar to the national average and talk about who their demographics are 
+- Numbers showing American's trust in each other to do the right thing and that 1 in 4 think it is a very big problem [Pew Research Center](https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-40/)
+- Numbers showing that almost 1 in 10 Americans believe that polarization is why Americans are less confident in the federal government[Pew Research Center](https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-40/)
+
+## Resolution
+- Bar chart with the SASSY Score on the Y-Axis as it subdivides each the difference of resource type with the percent difference on the X-axis[2023 Energy Profiles in America](2023energyprofilesinamerica.csv)
+- individual profiles of people who have similar to the national average and talk about who their demographics are [2023 Energy Profiles in America](2023energyprofilesinamerica.csv)
 - 
 
 Text here...
