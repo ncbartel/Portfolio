@@ -20,11 +20,11 @@ There are three main stories I want to tell with my data:
 
 - Map of economic impacts of climate change now 
     - Zoom into a few individual cases
-- 
-
-
+- Role of energy production in climate change
+- How energy has changed in the United States since 1970s
 
 ### Conflict
+- What politicians have been saying about energy 
 - Pictograph showing how 1 in 3 people from 18-29 think it is okay to engage in violent protest against the US government and 1 in 4 people from 30-49 as well [The COVID States Project](https://www.covidstates.org/reports/americans-views-on-violence-against-the-government)
 - Line chart showing the distrust in politicans and why scientists need to step up [The COVID States Project](https://www.covidstates.org/trust-in-institutions)
 - Numbers showing American's trust in each other to do the right thing and that 1 in 4 think it is a very big problem [Pew Research Center](https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-40/)
@@ -33,7 +33,8 @@ There are three main stories I want to tell with my data:
 ## Resolution
 - Bar chart with the SASSY Score on the Y-Axis as it subdivides each the difference of resource type with the percent difference on the X-axis[2023 Energy Profiles in America](2023energyprofilesinamerica.csv)
 - individual profiles of people who have similar to the national average and talk about who their demographics are [2023 Energy Profiles in America](2023energyprofilesinamerica.csv)
-- 
+- Innovations in energy examples
+- SAVE America: Share, Analyze, Vote, and Explore 
 
 Text here...
 
