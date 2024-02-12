@@ -18,9 +18,12 @@ There are three main stories I want to tell with my data:
 
 ### Setup
 
-Based upon past poll data, economic impact is one of the leading influencing factors on belief in climate change and action towards it. So I want to start off sharing how the economic impacts of climate change are a now issue. 
+#### Current Economic Impacts
+Based upon past poll data, economic impact is one of the leading influencing factors on belief in climate change and action towards it. So I want to start off sharing how the economic impacts of climate change are a now issue. Instead of telling big data points of $X amount was lost to climate change, as seen in class, we have a hard time visualizing trillions, billions, and millions. So, I want to talk about individual impacts on cities and towns across the United States and how they were economically impacted. I want to have people to scroll through each site selected to read about what happened in each location.
 
 ![Slide 1 of Economic Impact](sketch1.png)
+
+#### Current Climate Impact of Energy 
 
 - Map of economic impacts of climate change now 
     - Zoom into a few individual cases
