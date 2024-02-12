@@ -18,6 +18,10 @@ There are three main stories I want to tell with my data:
 
 ### Setup
 
+Based upon past poll data, economic impact is one of the leading influencing factors on belief in climate change and action towards it. So I want to start off sharing how the economic impacts of climate change are a now issue. 
+
+![Slide 1 of Economic Impact](sketch1.png)
+
 - Map of economic impacts of climate change now 
     - Zoom into a few individual cases
 - Role of energy production in climate change
