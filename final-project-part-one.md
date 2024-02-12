@@ -25,6 +25,10 @@ Based upon past poll data, economic impact is one of the leading influencing fac
 
 #### Current Climate Impact of Energy 
 
+Another core part of understanding the context of why energy sourcing is important is through the carbon impact of the electricity that we use. Through use of a pie graph, viewers will be able to see the relationship between the main different types. 
+
+![Slide 2 of Carbon Emissions of Energy Sources](sketch2.png)
+
 - Map of economic impacts of climate change now 
     - Zoom into a few individual cases
 - Role of energy production in climate change
