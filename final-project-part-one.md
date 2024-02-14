@@ -100,6 +100,5 @@ For my call to action, I want to use the acronym S.A.V.E (Share thoughts on clim
 |Center for Energy Policy & Management|[Personally Owned CSV Raw Data](2023energyprofilesinamerica.csv)|I plan to use this to show how each energy source is impacted by political and ideological influences. This data comes from a nationally representative (N=1300) study of Americans used in a Senior Capstone in Spring 2023. |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I plan on completing this project using Shorthand to create a scrollable website and integrating designs from Tableau from this data set. To help meet benchmarks for the remainder of the semester, I plan to divide this project into chunks and set deadlines for each part of the project. Using both in-class and online help via YouTube tutorials for ways to elevate the content or ways to convert how I picture it into reality, I plan that there not to be any significant hinderances on its development. 
