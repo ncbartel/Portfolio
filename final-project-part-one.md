@@ -59,7 +59,11 @@ Another core element is trust and distrust of institutions and each other. If pe
 
 ![Slide 7 of Conflict](sketch7.png)
 
+#### The "It's Not Me, It's You" Issue
 
+I then want to share that Americans believe that polarization is the main reason people are less trusting of institutions. This then reflects on the main idea of climate policy as if people cannot trust the institutions that are putting forth these policies, then these policies are less likely to be enacted. I want to use orange as another alert color with text on the screen instead of a visualization to balance the text to image to visualizations in the story. 
+
+![Slide 8: Conflict](sketch8.png)
 
 
 
