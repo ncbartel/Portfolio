@@ -110,7 +110,7 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|The COVID States Project|[www.covidstates.org](https://www.covidstates.org/reports/americans-views-on-violence-against-the-government)| I plan to use this the violent protest and distrust in America data |
+|The COVID States Project|[www.covidstates.org](https://www.covidstates.org/reports/americans-views-on-violence-against-the-government)| I plan to use this to show the violent protest and distrust in America data |
 |Pew Research Center|[www.pewresearch.org](https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-40/)|I plan to use this data to show the lack of trust between Americans and impact of polarization |
 |      |     |             |
 
