@@ -35,20 +35,24 @@ I want to also then go into while the current state of energy production has bee
 
 ![Slide 3 of Energy Production](sketch3.png)
 
-#### What are politicans saying?
+
+
+### Conflict
+
+#### American politicans are making it seem as if renewable energy is the most dividing thing
 
 Another core aspect of this story is the impact of the current political climate on the energy portfolio. I want to show the current political climate and how major names in politics are currently talking about energy policy. I envision a picture of the politician, a quote from them, and their position and name and 3 of them to follow the rule of 3s. 
 
-![Slide 4 of Energy Production](sketch4.png)
+![Slide 4 of Conflict](sketch4.png)
 
+#### Americans are feeding into the rhetoric 
 
+For this, I want two graphics. One talking about young adults who believe that violent protest against the U.S. government is okay and then show it among older adults. I want to use a black background and a red font to push the danger messaging that this is not okay.
 
-- Map of economic impacts of climate change now 
-    - Zoom into a few individual cases
-- Role of energy production in climate change
-- How energy has changed in the United States since 1970s
+![Slide 5 of Conflict](sketch5.png)
 
-### Conflict
+![Slide 6 of Conflict](sketch6.png)
+
 - What politicians have been saying about energy 
 - Pictograph showing how 1 in 3 people from 18-29 think it is okay to engage in violent protest against the US government and 1 in 4 people from 30-49 as well [The COVID States Project](https://www.covidstates.org/reports/americans-views-on-violence-against-the-government)
 - Line chart showing the distrust in politicans and why scientists need to step up [The COVID States Project](https://www.covidstates.org/trust-in-institutions)
