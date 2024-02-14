@@ -57,13 +57,13 @@ For this, I want two graphics. One talking about young adults who believe that v
 
 Another core element is trust and distrust of institutions and each other. If people are unable to trust each other that they want the same thing on a values basis, then they are not going to work together for issues that require an equal moral ground to build into policy or political views. So, I want to show that Americans are trusting each other and institutions less now than before and that we know that it is an issue facing the US. This does increase my happiness rating a bit since it shows that we are aware it is an issue which might lead to action down the line. 
 
-![Slide 7 of Conflict](sketch7.png)
+![Slide 7 of Conflict](sketch8.png)
 
 #### The "It's Not Me, It's You" Issue
 
 I then want to share that Americans believe that polarization is the main reason people are less trusting of institutions. This then reflects on the main idea of climate policy as if people cannot trust the institutions that are putting forth these policies, then these policies are less likely to be enacted. I want to use orange as another alert color with text on the screen instead of a visualization to balance the text to image to visualizations in the story. 
 
-![Slide 8: Conflict](sketch8.png)
+![Slide 8: Conflict](sketch9.png)
 
 ## Resolution
 
@@ -71,7 +71,13 @@ I then want to share that Americans believe that polarization is the main reason
 
 I then want to use the data from the study I led which compared Yale's Program on Climate Change Communication's Six America's Profiles against people's desired energy portfolio changes in the U.S. energy market. Based upon our data from the study, we showed that it transends political party, ideology, or climate belief and varies at the level of change that each group wants. 
 
-![Slide 9: Resolution](sketch9.png)
+![Slide 9: Resolution](sketch10.png)
+
+#### We have political and tech liftoff! 
+
+I want to then show tangible examples of major renewable energy successes whether it be implementation such as in Babcock Ranch, Florida or innovations. Then, I also want to show how policymakers are also working to make changes to help promote renewable energy with policies found in the CHIPS and Science Act or other regulations. This also helps mitigate against the "we care, but politicans don't and there is no hope for new innovation" and provides some cautious optimism. 
+
+
 
 #### Taking it to the streets
 
@@ -79,7 +85,7 @@ Since that previous data was very mile high on its analysis, I then want to find
 
 ![Slide 10: Resolution](sketch10.png)
 
-
+#### 
 - What politicians have been saying about energy 
 - Pictograph showing how 1 in 3 people from 18-29 think it is okay to engage in violent protest against the US government and 1 in 4 people from 30-49 as well [The COVID States Project](https://www.covidstates.org/reports/americans-views-on-violence-against-the-government)
 - Line chart showing the distrust in politicans and why scientists need to step up [The COVID States Project](https://www.covidstates.org/trust-in-institutions)
