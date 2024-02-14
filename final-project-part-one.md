@@ -91,7 +91,7 @@ For my call to action, I want to use the acronym S.A.V.E (Share thoughts on clim
 
 ![Slide 13: Resolution](sketch13.png)
 
-#### 
+
 - What politicians have been saying about energy 
 - Pictograph showing how 1 in 3 people from 18-29 think it is okay to engage in violent protest against the US government and 1 in 4 people from 30-49 as well [The COVID States Project](https://www.covidstates.org/reports/americans-views-on-violence-against-the-government)
 - Line chart showing the distrust in politicans and why scientists need to step up [The COVID States Project](https://www.covidstates.org/trust-in-institutions)
