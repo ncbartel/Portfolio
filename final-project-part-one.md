@@ -65,6 +65,19 @@ I then want to share that Americans believe that polarization is the main reason
 
 ![Slide 8: Conflict](sketch8.png)
 
+## Resolution
+
+#### Green energy crosses party and ideology
+
+I then want to use the data from the study I led which compared Yale's Program on Climate Change Communication's Six America's Profiles against people's desired energy portfolio changes in the U.S. energy market. Based upon our data from the study, we showed that it transends political party, ideology, or climate belief and varies at the level of change that each group wants. 
+
+![Slide 9: Resolution](sketch9.png)
+
+#### Taking it to the streets
+
+Since that previous data was very mile high on its analysis, I then want to find people who fall within the averages of the total and in each of the compared political and climate profile groups then use that information profiles from across the country to show actual respondents and their demographics. My intended approach is to connect the big data of the sample with the individual level as well. This also shows that it is more than just tends but there are actual people that think this way. 
+
+![Slide 10: Resolution](sketch10.png)
 
 
 - What politicians have been saying about energy 
@@ -73,7 +86,6 @@ I then want to share that Americans believe that polarization is the main reason
 - Numbers showing American's trust in each other to do the right thing and that 1 in 4 think it is a very big problem [Pew Research Center](https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-40/)
 - Numbers showing that almost 1 in 10 Americans believe that polarization is why Americans are less confident in the federal government[Pew Research Center](https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-40/)
 
-## Resolution
 - Bar chart with the SASSY Score on the Y-Axis as it subdivides each the difference of resource type with the percent difference on the X-axis[2023 Energy Profiles in America](2023energyprofilesinamerica.csv)
 - individual profiles of people who have similar to the national average and talk about who their demographics are [2023 Energy Profiles in America](2023energyprofilesinamerica.csv)
 - Innovations in energy examples
