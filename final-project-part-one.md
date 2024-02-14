@@ -29,6 +29,20 @@ Another core part of understanding the context of why energy sourcing is importa
 
 ![Slide 2 of Carbon Emissions of Energy Sources](sketch2.png)
 
+#### How the US Energy Portfolio has Changed?
+
+I want to also then go into while the current state of energy production has been mainly natural gas, these have been the historical trends. If possible, I would like to make it have a slider that the user can scroll along and see how it changes over time. time. 
+
+![Slide 3 of Energy Production](sketch3.png)
+
+#### What are politicans saying?
+
+Another core aspect of this story is the impact of the current political climate on the energy portfolio. I want to show the current political climate and how major names in politics are currently talking about energy policy. I envision a picture of the politician, a quote from them, and their position and name and 3 of them to follow the rule of 3s. 
+
+![Slide 4 of Energy Production](sketch4.png)
+
+
+
 - Map of economic impacts of climate change now 
     - Zoom into a few individual cases
 - Role of energy production in climate change
