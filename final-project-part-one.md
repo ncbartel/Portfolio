@@ -110,9 +110,9 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|The COVID States Project|[www.covidstates.org](https://www.covidstates.org/reports/americans-views-on-violence-against-the-government)| I plan to use this to show the violent protest and distrust in America data |
-|Pew Research Center|[www.pewresearch.org](https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-40/)|I plan to use this data to show the lack of trust between Americans and impact of polarization |
-|      |     |             |
+|The COVID States Project|[www.covidstates.org](https://www.covidstates.org/reports/americans-views-on-violence-against-the-government)| I plan to use this to show the violent protest and distrust in America data. |
+|Pew Research Center|[www.pewresearch.org](https://www.pewresearch.org/politics/dataset/american-trends-panel-wave-40/)|I plan to use this data to show the lack of trust between Americans and impact of polarization. |
+|Center for Energy Policy & Management|[Personally Owned CSV Raw Data](2023energyprofilesinamerica.csv)|I plan to use this to show how each energy source is impacted by political and ideological influences. This data comes from a nationally representative (N=1300) study of Americans used in a Senior Capstone in Spring 2023. |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
