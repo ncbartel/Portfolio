@@ -53,6 +53,16 @@ For this, I want two graphics. One talking about young adults who believe that v
 
 ![Slide 6 of Conflict](sketch6.png)
 
+#### Americans are feeling worried about each other
+
+Another core element is trust and distrust of institutions and each other. If people are unable to trust each other that they want the same thing on a values basis, then they are not going to work together for issues that require an equal moral ground to build into policy or political views. So, I want to show that Americans are trusting each other and institutions less now than before and that we know that it is an issue facing the US. This does increase my happiness rating a bit since it shows that we are aware it is an issue which might lead to action down the line. 
+
+![Slide 7 of Conflict](sketch7.png)
+
+
+
+
+
 - What politicians have been saying about energy 
 - Pictograph showing how 1 in 3 people from 18-29 think it is okay to engage in violent protest against the US government and 1 in 4 people from 30-49 as well [The COVID States Project](https://www.covidstates.org/reports/americans-views-on-violence-against-the-government)
 - Line chart showing the distrust in politicans and why scientists need to step up [The COVID States Project](https://www.covidstates.org/trust-in-institutions)
