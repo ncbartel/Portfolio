@@ -108,14 +108,9 @@ Text here...
 # The data
 
 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+|The COVID States Project|[www.covidstates.org](https://www.covidstates.org/reports/americans-views-on-violence-against-the-government)     |             |
 |      |     |             |
 |      |     |             |
 
