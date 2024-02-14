@@ -57,13 +57,13 @@ For this, I want two graphics. One talking about young adults who believe that v
 
 Another core element is trust and distrust of institutions and each other. If people are unable to trust each other that they want the same thing on a values basis, then they are not going to work together for issues that require an equal moral ground to build into policy or political views. So, I want to show that Americans are trusting each other and institutions less now than before and that we know that it is an issue facing the US. This does increase my happiness rating a bit since it shows that we are aware it is an issue which might lead to action down the line. 
 
-![Slide 7 of Conflict](sketch8.png)
+![Slide 7 of Conflict](sketch7.png)
 
 #### The "It's Not Me, It's You" Issue
 
 I then want to share that Americans believe that polarization is the main reason people are less trusting of institutions. This then reflects on the main idea of climate policy as if people cannot trust the institutions that are putting forth these policies, then these policies are less likely to be enacted. I want to use orange as another alert color with text on the screen instead of a visualization to balance the text to image to visualizations in the story. 
 
-![Slide 8: Conflict](sketch9.png)
+![Slide 8: Conflict](sketch8.png)
 
 ## Resolution
 
@@ -77,13 +77,19 @@ I then want to use the data from the study I led which compared Yale's Program o
 
 I want to then show tangible examples of major renewable energy successes whether it be implementation such as in Babcock Ranch, Florida or innovations. Then, I also want to show how policymakers are also working to make changes to help promote renewable energy with policies found in the CHIPS and Science Act or other regulations. This also helps mitigate against the "we care, but politicans don't and there is no hope for new innovation" and provides some cautious optimism. 
 
-
+![Slide 11: Resolution](sketch11.png)
 
 #### Taking it to the streets
 
 Since that previous data was very mile high on its analysis, I then want to find people who fall within the averages of the total and in each of the compared political and climate profile groups then use that information profiles from across the country to show actual respondents and their demographics. My intended approach is to connect the big data of the sample with the individual level as well. This also shows that it is more than just tends but there are actual people that think this way. 
 
-![Slide 10: Resolution](sketch10.png)
+![Slide 12: Resolution](sketch12.png)
+
+#### Together we can **SAVE** the country!
+
+For my call to action, I want to use the acronym S.A.V.E (Share thoughts on climate change, Analyze for factual reports on the issue, Vote for Eco-Friendly Politicans, and Explore new energy policy advances). Acronyms can be used as effective ways to display information and keep it on the mind of its viewer as an easy to remember method. 
+
+![Slide 13: Resolution](sketch13.png)
 
 #### 
 - What politicians have been saying about energy 
