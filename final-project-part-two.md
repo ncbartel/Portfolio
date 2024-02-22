@@ -45,6 +45,7 @@ Interview 3: Female, Early 20s, Highest Education Attained: Bachelor's, Liberal 
 | The content itself was strong, but needs to be better tied together | I plan on trying to rework the transitions and find ways to reword some of the content to come across as more understandable.|
 |The relatablity of the bread price and elephant weight led to some confusion of purpose. |Remove those examples and research other ways to describe the impact|
 |The ending was a bit generic and not motivating|Make the ending more about the thesis on greater unity than what we think it might be.|
+|Change the graph at the end to be easier to read|There was a lot of information on the visualization and it was harder to disect and was harder to view on non-laptop or desktop devices.|
 
 
 I felt that while there was a lot of information that I got that this information will definitely help me shape the messaging and format of the presentation to apply more to my audience. 
