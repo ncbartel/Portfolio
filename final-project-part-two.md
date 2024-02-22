@@ -16,7 +16,7 @@ My goals were based off of the critique methods discussed in class looking at po
 | Goal | Questions to Ask |
 |------|------------------|
 |Positive Elements|What are elements of this story that you found were positive in the story?|
-|Negative Elements|What are some elements of this study that you found could be improved? How would you suggest|
+|Negative Elements|What are some elements of this study that you found could be improved? How would you suggest that it change?|
 |Perceived Audience|Based upon how you viewed it, what do you believe was the target audience of this?|
 |Initial Impressions|Given the visualizations, what are your first thoughts when it comes to this?|
 
@@ -29,7 +29,7 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
+|What are elements of this story that you found were positive in the story?| Insightful feedback            |             |             |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
