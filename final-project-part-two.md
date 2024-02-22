@@ -3,28 +3,24 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+My target audience are American voters who feel as if politics is failing and that people "just don't get along and respect each other anymore". I am intentionally designing it for those who might be slightly right leaning and are interested in willing to work with pro-green energy people but feel that their opinion is uncommon within their political party.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+My goals were based off of the critique methods discussed in class looking at positive elements, negative aspects, perceived audience, and initial impressions. 
 
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|Positive Elements|What are elements of this story that you found were positive in the story?|
+|Negative Elements|What are some elements of this study that you found could be improved? How would you suggest|
+|Perceived Audience|Based upon how you viewed it, what do you believe was the target audience of this?|
+|Initial Impressions|Given the visualizations, what are your first thoughts when it comes to this?|
 
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
