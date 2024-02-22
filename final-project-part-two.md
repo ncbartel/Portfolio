@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-
+<iframe src="https://carnegiemellon.shorthandstories.com/changing-america-in-a-changing-climate/index.html" style="height:200em;width:50em" title="Shorthand"></iframe>
 
 # User research 
 
@@ -48,11 +48,6 @@ Text here!
 | ...add more rows as necessary            |                                                                                 |
 
 > ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
 Text here!
 
