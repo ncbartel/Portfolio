@@ -28,7 +28,9 @@ Interview 1: Male, Early 20s, Highest Education Attained: Some College, Conserva
 
 Interview 2: Female, Early 20s, Highest Education Attained: Graduate School, Moderate Democrat
 
-Interview 3: 
+Interview 3: Female, Early 20s, Highest Education Attained: Bachelor's, Liberal Democrat
+
+Interview 4: Female, Early 50s, Highest Education Attained: Ph.D., Moderate Democrat
 
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
