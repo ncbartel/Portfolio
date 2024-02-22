@@ -25,13 +25,17 @@ My goals were based off of the critique methods discussed in class looking at po
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+Interview 1: Male, Early 20s, Highest Education Attained: Some College, Conservative Republican
+Interview 2: Female, Early 20s, Highest Education Attained: Graduate School, Moderate Democrat
+Interview 3: 
+
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-|What are elements of this story that you found were positive in the story?| Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|What are elements of this story that you found were positive in the story?|"I like the intext citations for basically everything. It makes it very easy to see where data is being pulled from"|             |             |
+|What are some elements of this study that you found could be improved? |                                |             |             |
+|How would you suggest that it change?|Did not like the comparison of tons of CO2 to weight of elephants and said it felt "like a children's pop up book". Also felt the audience changed from the body of the story to the conclusion shifting from mainly targeting more pro-environment conservatives to Green and more liberal Democrats in the call to action.|             |             |
+|
 
 
 # Identified changes for Part III
