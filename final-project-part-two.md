@@ -33,8 +33,8 @@ Interview 3:
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 |What are elements of this story that you found were positive in the story?|"I like the intext citations for basically everything. It makes it very easy to see where data is being pulled from"|             |             |
-|What are some elements of this study that you found could be improved? |                                |             |             |
-|How would you suggest that it change?|Did not like the comparison of tons of CO2 to weight of elephants and said it felt "like a children's pop up book". Also felt the audience changed from the body of the story to the conclusion shifting from mainly targeting more pro-environment conservatives to Green and more liberal Democrats in the call to action.|             |             |
+|What are some elements of this study that you found could be improved? |Did not like the comparison of tons of CO2 to weight of elephants and said it felt "like a children's pop up book". Also felt the audience changed from the body of the story to the conclusion shifting from mainly targeting more pro-environment conservatives to Green and more liberal Democrats in the call to action.|             |             |
+|How would you suggest that it change?|Suggested that the phrasing change to be more audience appropriate and also the call to action should be pushing the unity of Americans behind it instead of more generic recommendations| |             |
 |
 
 
