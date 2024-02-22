@@ -23,10 +23,11 @@ My goals were based off of the critique methods discussed in class looking at po
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Interview 1: Male, Early 20s, Highest Education Attained: Some College, Conservative Republican
+
 Interview 2: Female, Early 20s, Highest Education Attained: Graduate School, Moderate Democrat
+
 Interview 3: 
 
 
