@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-<iframe src="https://carnegiemellon.shorthandstories.com/changing-america-in-a-changing-climate/index.html" style="height:100em;width:120em" title="Shorthand"></iframe>
+<iframe src="https://carnegiemellon.shorthandstories.com/changing-america-in-a-changing-climate/index.html" style="height:75em;width:75em" title="Shorthand"></iframe>
 
 # User research 
 
