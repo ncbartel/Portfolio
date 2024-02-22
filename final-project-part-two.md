@@ -38,7 +38,7 @@ Interview 4: Female, Early 50s, Highest Education Attained: Ph.D., Moderate Demo
 |What are elements of this story that you found were positive in the story?|"I like the intext citations for basically everything. It makes it very easy to see where data is being pulled from"|             |             |
 |What are some elements of this study that you found could be improved? |Did not like the comparison of tons of CO2 to weight of elephants and said it felt "like a children's pop up book". Also felt the audience changed from the body of the story to the conclusion shifting from mainly targeting more pro-environment conservatives to Green and more liberal Democrats in the call to action.|             |             |
 |How would you suggest that it change?|Suggested that the phrasing change to be more audience appropriate and "if you're looking to try to bridge the gap I would make a call to action focusing on points of agreement between people who are usually pro green energy and people who are usually anti green energy"| |             |
-|Based upon how you viewed it, what do you believe was the target audience of this?| I think that the intended audience is supposed to be a general audiences or even a more right leaning audience but the call to action slams you right back into a green/leftwing audience category|
+|Based upon how you viewed it, what do you believe was the target audience of this?|"I think that the intended audience is supposed to be a general audiences or even a more right leaning audience but the call to action slams you right back into a green/leftwing audience category"|
 
 
 # Identified changes for Part III
