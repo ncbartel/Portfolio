@@ -2,7 +2,8 @@
 # The final data story
 <iframe src="https://carnegiemellon.shorthandstories.com/changingtheclimatetogether/" style="height:75em;width:100em" title="Shorthand"></iframe>
 
-Link [https://carnegiemellon.shorthandstories.com/changingtheclimatetogether](https://carnegiemellon.shorthandstories.com/changingtheclimatetogether)
+Link: [https://carnegiemellon.shorthandstories.com/changingtheclimatetogether](https://carnegiemellon.shorthandstories.com/changingtheclimatetogether)
+
 # Changes made since Part II
 
 One of the most important changes that I made since Part II was shifting the message to be more targeted as a pro-science conservative audience. Based upon feedback from Part II, it was clear that using quotes from Republican leaders and adding in reference points made it seem as if I was talking down to my audience who may have a belief of liberal elitism and feeling intellectually superior over conservatives which was not the intent of the original message. Instead of referencing top Republicans who were both funded and supported the fossil fuel industry, I instead shifted the message to be more targeting fossil fuel companies promoting apathy and disengagement on climate change.
