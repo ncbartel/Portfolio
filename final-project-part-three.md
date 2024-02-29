@@ -28,6 +28,7 @@ My primary audience in this project are pro-science conservatives. My secondary 
 
 
 ## References
+
 Bartel, Nickolas, and Corey Young. “Watt Is the Future of American Energy?: The Impact of Climate Change Beliefs on Desired Energy Sources,” May 2023. https://drive.google.com/file/u/4/d/103ceZPLyoYxEKQ9qfVUKAfUqwcQfuCNZ/view?usp=sharing&usp=embed_facebook.
 
 Douglas, Erin, and Alejandra Martinez. “‘I Don’t Wish This on Anyone’: Two Families Mourn Their Losses after a Record Year for Texas Heat Deaths.” The Texas Tribune, January 12, 2024. https://www.texastribune.org/2024/01/12/texas-heat-deaths-2023-record-climate-change/.
@@ -58,6 +59,5 @@ Wartman, Scott. “McConnell: Don’t Expect Much from Congress This Year.” Th
 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+I thought it went really well overall and it was really interesting to see how my thought process changed from part 1 and 2 to now onto part 3. One thing I would have liked to have added from the part 1 of the wireframe was adding more information about what changes are being made positively regarding energy. However, I felt that it would add more information that I simply did not have time to add for this project unfortunately. I made the decision not to include it as part of the story given the story was already long enough and was on the border of being too long leading to disengagement from the audience before they get to the positive part at the end. I felt that this was a necessary tradeoff to make of which part to cut from the part 1 model. 
