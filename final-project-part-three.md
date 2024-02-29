@@ -1,6 +1,6 @@
 | [Home](https://ncbartel.github.io/Portfolio/) | [Visualizing Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 # The final data story
-<iframe src="https://carnegiemellon.shorthandstories.com/changingtheclimatetogether/" style="height:75em;width:75em" title="Shorthand"></iframe>
+<iframe src="https://carnegiemellon.shorthandstories.com/changingtheclimatetogether/" style="height:75em;width:100em" title="Shorthand"></iframe>
 
 # Changes made since Part II
 
